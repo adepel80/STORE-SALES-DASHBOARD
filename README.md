@@ -3,7 +3,7 @@
 CONTEXT
 
 To help the company A, a  fictional company headquarter in United state of America track it's sales and monitor key performance indicator over time, a concise dashboard displaying the relevant metrics was created for use by its stakeholders
-This analysis detailed the effectiveness of the dashboard in helping company X achieve its goal
+This analysis detailed the effectiveness of the dashboard in helping company A achieve its goal
 
 OVERVIEW
 
