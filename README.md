@@ -53,7 +53,7 @@ of all segment, the consumer is having the most profit with 134,119 and Home off
 
 ![net profit by segment sales](https://github.com/adepel80/STORE-SALES-DASHBOARD/assets/123180341/f8eb8d78-b541-4b7a-bf11-b641388b6209)
 
-•	Sales by category with office supply dominating with 60.3% and the least with 18.45% for technology 
+•	Sales by category with technology dominating with 36.4% and the least with 31.3% for office supply 
 
 ![sales by cat sales](https://github.com/adepel80/STORE-SALES-DASHBOARD/assets/123180341/be52e054-a141-4b6e-91df-47bb28787559)
 
