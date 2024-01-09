@@ -9,19 +9,11 @@ OVERVIEW
 
 This repository contains the necessary resources and documentation for conducting a comprehensive sales analysis. The goal of this analysis is to gain insights into sales performance, identify trends, and make informed business decisions based on the data
 
-Table of Contents
-Data
-Analysis
-Findings
-Recommendations
-Usage
-Contributing
-License
-
 DATA
+
 The dataset used for this analysis is located in the data directory. it was gotten from kaggle  It includes sales data spanning a specific time period, containing information such as Average profit, city, cost price, customer Id, name, discount, zip code, postal code, quantity, proft , region, revenue, RevenueX, sales, sales quantity, sales rep, sales team, segment, ship date, ship mode, state, sub category
 
-TOOLS USED AND DATA SOURCE
+TOOLS USED AND DATA SOURCE:
 
 Tool: Power BI, microsoft excel
 
