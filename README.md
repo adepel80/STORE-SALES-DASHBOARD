@@ -31,6 +31,7 @@ The sales analysis process involves the following steps:
 
 DATA CLEANING AND PREPROCESSING: The raw data is cleaned and formatted to ensure accurate analysis.
 
+
 ![power query sales](https://github.com/adepel80/STORE-SALES-DASHBOARD/assets/123180341/b3d376f8-6a12-47d3-87df-5159e4bc368f)
 
 
@@ -39,7 +40,8 @@ EXPLORATORY DATA ANALYSIS (EDA): Basic statistics and visualizations are generat
 KPI
 
 To help the stakeholders better understand the revenue performance, 4 key performance indicators were highlighted
-•	Net profit by segment
+
+•	NET PROFIT BY SEGMENT
 
 ![net profit by segment sales](https://github.com/adepel80/STORE-SALES-DASHBOARD/assets/123180341/f8eb8d78-b541-4b7a-bf11-b641388b6209)
 
@@ -50,9 +52,11 @@ To help the stakeholders better understand the revenue performance, 4 key perfor
 •	Total sales of 2.3million
 
 
-SALES METRIC CALCULATION: Key performance metrics, such as total revenue, REVENUE X, cost price, average order value, and top-selling products, are calculated.
+SALES METRIC CALCULATION: 
+Key performance metrics, such as total revenue, REVENUE X, cost price, average order value, and top-selling products, are calculated.
 
-TIME SERIES ANALYSIS: Time-based patterns are time intelligence was calculated, extracting the necdssary information from the order date and sales information
+TIME SERIES ANALYSIS: 
+Time-based patterns are time intelligence was calculated, extracting the necdssary information from the order date and sales information
 
 MODEL 
 
@@ -75,6 +79,7 @@ Certain products consistently outperform others in terms of sales volume and rev
 Average order value is highest during promotional periods.
 
 FINAL DASHBOARD
+
 The dashboard below display the key performance indicator that meet the needs of the stakeholders and provides them with an overview of the business performance. the presence of filter for the following [Customer name, Cities, Product name, State, Sales REP] on the dashboard makes it more interactive
 
 ![Real sales dash](https://github.com/adepel80/STORE-SALES-DASHBOARD/assets/123180341/163b251f-3d0f-4fb9-9861-99f15a6de53e)
