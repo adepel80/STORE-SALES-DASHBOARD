@@ -24,12 +24,16 @@ The dataset used for this analysis is located in the data directory. it was gott
 TOOLS USED AND DATA SOURCE
 
 Tool: Power BI, microsoft excel
+
 Data source : kaggle
 
 ANALYSIS
+
 The sales analysis process involves the following steps:
 
-DATA CLEANING AND PREPROCESSING: The raw data is cleaned and formatted to ensure accurate analysis.
+DATA CLEANING AND PREPROCESSING: 
+
+The raw data is cleaned and formatted to ensure accurate analysis.
 
 
 ![power query sales](https://github.com/adepel80/STORE-SALES-DASHBOARD/assets/123180341/b3d376f8-6a12-47d3-87df-5159e4bc368f)
