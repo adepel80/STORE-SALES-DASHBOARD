@@ -39,13 +39,17 @@ The raw data is cleaned and formatted to ensure accurate analysis.
 ![power query sales](https://github.com/adepel80/STORE-SALES-DASHBOARD/assets/123180341/b3d376f8-6a12-47d3-87df-5159e4bc368f)
 
 
-EXPLORATORY DATA ANALYSIS (EDA): Basic statistics and visualizations are generated to understand the distribution of sales, trends over time,Revenue, profit, coost price,sales quantity and other relevant insights.
+EXPLORATORY DATA ANALYSIS (EDA):
+
+Basic statistics and visualizations are generated to understand the distribution of sales, trends over time,Revenue, profit, coost price,sales quantity and other relevant insights.
 
 KPI
 
 To help the stakeholders better understand the revenue performance, 4 key performance indicators were highlighted
 
 •	NET PROFIT BY SEGMENT
+
+of all segment, the consumer is having the most profit with 134,119 and Home office is having the least of the 3 segments with 60,298.
 
 ![net profit by segment sales](https://github.com/adepel80/STORE-SALES-DASHBOARD/assets/123180341/f8eb8d78-b541-4b7a-bf11-b641388b6209)
 
